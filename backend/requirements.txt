@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+pymongo
+sentence-transformers
+faiss-cpu
+openai
+google-generativeai
+flask
+flask-cors
+numpy
+pandas
+scikit-learn
+joblib
+xgboost
+lightgbm
